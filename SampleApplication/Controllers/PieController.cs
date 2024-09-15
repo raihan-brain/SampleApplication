@@ -36,6 +36,7 @@ namespace SampleApplication.Controllers
 
 
         [HttpGet("{id}")]
+        [Produces("application/json")]
         public async Task<ActionResult<Pie>> getPieById(int id)
         {
             try

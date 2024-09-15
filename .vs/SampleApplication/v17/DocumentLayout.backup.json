@@ -62,8 +62,7 @@
               "RelativeToolTip": "SampleApplication\\Controllers\\DemoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:04:02.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T05:04:02.54Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "SampleApplication\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:58:21.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T13:58:21.027Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "SampleApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:52:28.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T13:52:28.815Z"
             },
             {
               "$type": "Document",
@@ -97,9 +94,9 @@
               "Title": "PieController.cs",
               "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs",
               "RelativeDocumentMoniker": "SampleApplication\\Controllers\\PieController.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs",
-              "RelativeToolTip": "SampleApplication\\Controllers\\PieController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDkAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs*",
+              "RelativeToolTip": "SampleApplication\\Controllers\\PieController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wCYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T13:46:29.532Z",
               "EditorCaption": ""
@@ -114,8 +111,7 @@
               "RelativeToolTip": "SampleApplication\\Models\\IPieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:36:25.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T13:36:25.385Z"
             },
             {
               "$type": "Document",
