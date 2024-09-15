@@ -1,0 +1,18 @@
+﻿@model SampleApplication.Models.ViewModels.PieListViewModal
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pie List</title>
+</head>
+<body>
+    <h1>Pie List</h1>
+    @foreach(var pie in Model.Pies)
+    {
+        <ul>
+            <li>@pie.Name</li>
+            <li>@pie.Price.ToString("c")</li>
+            <li>@pie.Category.CategoryName</li>
+        </ul>
+    }
+</body>
+</html>
