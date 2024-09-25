@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\work\\.net_mvc\\SampleApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\billingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\ibillingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\ibillingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\billingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\controllers\\timebillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\controllers\\timebillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|c:\\work\\.net_mvc\\sampleapplication\\sampleapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A32B-B6C1-494E-B98C-094696CA883B}|SampleApplication\\SampleApplication.csproj|solutionrelative:sampleapplication\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,112 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "BillingContext.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\BillingContext.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Models\\BillingContext.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\BillingContext.cs",
+              "RelativeToolTip": "SampleApplication\\Models\\BillingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:59:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DemoController.cs",
               "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "SampleApplication\\Controllers\\DemoController.cs",
               "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\DemoController.cs",
               "RelativeToolTip": "SampleApplication\\Controllers\\DemoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T05:04:02.54Z"
+              "WhenOpened": "2024-09-21T15:56:45.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SampleApplication\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TimeBillController.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\TimeBillController.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Controllers\\TimeBillController.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\TimeBillController.cs",
+              "RelativeToolTip": "SampleApplication\\Controllers\\TimeBillController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAywCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:58:21.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Program.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Program.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Program.cs",
-              "RelativeToolTip": "SampleApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:52:28.815Z"
+              "WhenOpened": "2024-09-21T15:10:53.474Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PieController.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Controllers\\PieController.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs*",
-              "RelativeToolTip": "SampleApplication\\Controllers\\PieController.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wCYAAAAmAAAAAAAAAA==",
+              "Title": "BillingRepository.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\BillingRepository.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Models\\BillingRepository.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\BillingRepository.cs",
+              "RelativeToolTip": "SampleApplication\\Models\\BillingRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAawEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:46:29.532Z",
+              "WhenOpened": "2024-09-21T15:09:38.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPieRepository.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\IPieRepository.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Models\\IPieRepository.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\IPieRepository.cs",
-              "RelativeToolTip": "SampleApplication\\Models\\IPieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "IBillingRepository.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\IBillingRepository.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Models\\IBillingRepository.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\IBillingRepository.cs",
+              "RelativeToolTip": "SampleApplication\\Models\\IBillingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:36:25.385Z"
+              "WhenOpened": "2024-09-21T15:09:30.777Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Pie.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Pie.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Models\\Pie.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Pie.cs",
-              "RelativeToolTip": "SampleApplication\\Models\\Pie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Models\\Customer.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Customer.cs",
+              "RelativeToolTip": "SampleApplication\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T12:37:30.51Z"
+              "WhenOpened": "2024-09-21T15:09:18.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "SampleApplication\\appsettings.json",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\appsettings.json",
-              "RelativeToolTip": "SampleApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-14T12:06:04.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Models\\Category.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\Category.cs",
-              "RelativeToolTip": "SampleApplication\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PieController.cs",
+              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs",
+              "RelativeDocumentMoniker": "SampleApplication\\Controllers\\PieController.cs",
+              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Controllers\\PieController.cs",
+              "RelativeToolTip": "SampleApplication\\Controllers\\PieController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T12:05:27.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\DbContext.cs",
-              "RelativeDocumentMoniker": "SampleApplication\\Models\\DbContext.cs",
-              "ToolTip": "C:\\work\\.net_mvc\\SampleApplication\\SampleApplication\\Models\\DbContext.cs",
-              "RelativeToolTip": "SampleApplication\\Models\\DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T12:03:57.451Z"
+              "WhenOpened": "2024-09-21T15:08:11.719Z"
             }
           ]
         }

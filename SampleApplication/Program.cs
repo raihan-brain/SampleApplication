@@ -1,10 +1,21 @@
 using SampleApplication.Controllers;
 using SampleApplication.Models;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
+IConfigurationBuilder configBuilder = builder.Configuration;
+configBuilder.Sources.Clear();
+configBuilder.AddJsonFile("appsettings.json")
+    .AddJsonFile("appsettings.Development.json", optional: true)
+    .AddUserSecrets(Assembly.GetExecutingAssembly())
+    .AddEnvironmentVariables()
+    .AddCommandLine(args);
+
 builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
 builder.Services.AddScoped<IPieRepository, MockPieRepository>();
+builder.Services.AddDbContext<BillingContext>();
+builder.Services.AddScoped<IBillingRepository, BillingRepository>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -9,12 +9,17 @@ namespace SampleApplication.Controllers
     {
         private readonly IPieRepository _pieRepository;
         private readonly ICategoryRepository _categoryRepository;
+        private readonly IBillingRepository _billingRepository;
         private readonly ILogger<PieController> _logger;
 
-        public PieController(ILogger<PieController> logger,IPieRepository pieRepository, ICategoryRepository categoryRepository)
+        public PieController(ILogger<PieController> logger,
+            IPieRepository pieRepository, 
+            ICategoryRepository categoryRepository,
+            IBillingRepository billingRepository)
         {
             _pieRepository = pieRepository;
             _categoryRepository = categoryRepository;
+            _billingRepository = billingRepository;
             _logger = logger;
         }
 
@@ -29,6 +34,7 @@ namespace SampleApplication.Controllers
         }
 
         [HttpGet("allpies")]
+        [Produces("application/json")]
         public async Task<IEnumerable<Pie>> getAllPies()
         {
             return await Task.FromResult(_pieRepository.AllPies);
@@ -58,6 +64,29 @@ namespace SampleApplication.Controllers
                 return Problem($"Exception thrown: {ex.Message}");
             }
 
+        }
+
+        [HttpGet("getemployee")]
+        [Produces("application/json")]
+        public async Task<ActionResult<IEnumerable<Employee>>> getCustomers()
+        {
+            try
+            {
+                var result = await _billingRepository.GetEmployees();
+                if (result is null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    return Ok(result);
+                }
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Exception thrown while fetching employees");
+                return Problem($"Exception thrown: {ex.Message}");
+            }
         }
     }
 

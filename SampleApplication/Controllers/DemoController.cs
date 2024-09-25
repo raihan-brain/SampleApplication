@@ -12,7 +12,7 @@ namespace SampleApplication.Controllers
             _pieRepository = pieRepository;
         }
 
-        [HttpGet("/allpies")]
+        [HttpGet("/allpies2")]
         public async Task<IEnumerable<Pie>> getAllPies()
         {
             return await Task.FromResult(_pieRepository.AllPies);
